@@ -1,0 +1,555 @@
+{
+  "type": "STANDALONE_FINANCE_BACKUP",
+  "exportedAt": "2026-05-24T05:00:00.000Z",
+  "incomes": [
+    {
+      "id": "1777901781100",
+      "date": "2026-04-01",
+      "source": "Sisa 50% UH DL Luwuk",
+      "amount": 664500,
+      "category": "extra"
+    },
+    {
+      "id": "1777807842712",
+      "date": "2026-05-02",
+      "source": "mei",
+      "amount": 2498500,
+      "category": "gaji"
+    },
+    {
+      "id": "1777901781108",
+      "date": "2026-05-03",
+      "source": "SHU",
+      "amount": 110000,
+      "category": "extra"
+    },
+    {
+      "id": "1777901781109",
+      "date": "2026-05-04",
+      "source": "DL PT. Anindya Cikarang",
+      "amount": 2449250,
+      "category": "extra"
+    },
+    {
+      "id": "1777901781110",
+      "date": "2026-05-13",
+      "source": "Uang Makan Mei",
+      "amount": 566300,
+      "category": "uangMakan"
+    },
+    {
+      "id": "1779522766950",
+      "date": "2026-05-20",
+      "source": "Tukin Mei",
+      "amount": 4560554,
+      "category": "tukin"
+    }
+  ],
+  "expenses": [
+    {
+      "id": "exp-1",
+      "date": "2026-05-01",
+      "item": "Makan Gofood.",
+      "amount": 36100,
+      "category": "Makan",
+      "kakeiboType": "Optional"
+    },
+    {
+      "id": "exp-2",
+      "date": "2026-05-02",
+      "item": "Gofood Ayam 8 Potong",
+      "amount": 69600,
+      "category": "Makan",
+      "kakeiboType": "Survival"
+    },
+    {
+      "id": "exp-3",
+      "date": "2026-05-02",
+      "item": "Belanja Kembang Kol 1 Kg",
+      "amount": 40000,
+      "category": "Makan",
+      "kakeiboType": "Survival"
+    },
+    {
+      "id": "exp-4",
+      "date": "2026-05-02",
+      "item": "Belanja Brokoli 1 Kg",
+      "amount": 45000,
+      "category": "Makan",
+      "kakeiboType": "Survival"
+    },
+    {
+      "id": "exp-5",
+      "date": "2026-05-02",
+      "item": "Cuka Apel 500Ml",
+      "amount": 36000,
+      "category": "Makan",
+      "kakeiboType": "Survival"
+    },
+    {
+      "id": "exp-6",
+      "date": "2026-05-02",
+      "item": "Biaya Layanan Astro",
+      "amount": 3000,
+      "category": "Lainnya",
+      "kakeiboType": "Extra"
+    },
+    {
+      "id": "exp-7",
+      "date": "2026-05-03",
+      "item": "Gofood Bacan Set",
+      "amount": 35970,
+      "category": "Makan",
+      "kakeiboType": "Optional"
+    },
+    {
+      "id": "exp-8",
+      "date": "2026-05-04",
+      "item": "Grab Kos Ranji",
+      "amount": 15000,
+      "category": "Transportasi",
+      "kakeiboType": "Survival"
+    },
+    {
+      "id": "exp-9",
+      "date": "2026-05-04",
+      "item": "Makan Naspad Cincang",
+      "amount": 26000,
+      "category": "Makan",
+      "kakeiboType": "Survival"
+    },
+    {
+      "id": "exp-10",
+      "date": "2026-05-05",
+      "item": "Alex Kerja",
+      "amount": 43100,
+      "category": "Lainnya",
+      "kakeiboType": "Extra"
+    },
+    {
+      "id": "exp-11",
+      "date": "2026-05-06",
+      "item": "Gofood Nasi Campur",
+      "amount": 37450,
+      "category": "Makan",
+      "kakeiboType": "Optional"
+    },
+    {
+      "id": "exp-12",
+      "date": "2026-05-07",
+      "item": "GrabFood nasi ayam",
+      "amount": 44243,
+      "category": "Makan",
+      "kakeiboType": "Optional"
+    },
+    {
+      "id": "exp-13",
+      "date": "2026-05-07",
+      "item": "Kantor - Pasar Senen",
+      "amount": 19500,
+      "category": "Transportasi",
+      "kakeiboType": "Survival"
+    },
+    {
+      "id": "exp-14",
+      "date": "2026-05-08",
+      "item": "sayang",
+      "amount": 100000,
+      "category": "Anak",
+      "kakeiboType": "Survival"
+    },
+    {
+      "id": "exp-15",
+      "date": "2026-05-08",
+      "item": "martabak",
+      "amount": 30000,
+      "category": "Makan",
+      "kakeiboType": "Survival"
+    },
+    {
+      "id": "exp-16",
+      "date": "2026-05-09",
+      "item": "Makan rumah",
+      "amount": 100000,
+      "category": "Makan",
+      "kakeiboType": "Survival"
+    },
+    {
+      "id": "exp-17",
+      "date": "2026-05-09",
+      "item": "belanja zio di magl",
+      "amount": 153000,
+      "category": "Anak",
+      "kakeiboType": "Survival"
+    },
+    {
+      "id": "exp-18",
+      "date": "2026-05-09",
+      "item": "Mbak di",
+      "amount": 100000,
+      "category": "Lainnya",
+      "kakeiboType": "Optional"
+    },
+    {
+      "id": "exp-19",
+      "date": "2026-05-10",
+      "item": "make grav",
+      "amount": 180000,
+      "category": "Transportasi",
+      "kakeiboType": "Optional"
+    },
+    {
+      "id": "exp-20",
+      "date": "2026-05-10",
+      "item": "tip grab",
+      "amount": 50000,
+      "category": "Transportasi",
+      "kakeiboType": "Optional"
+    },
+    {
+      "id": "exp-21",
+      "date": "2026-05-11",
+      "item": "cuci mobil",
+      "amount": 50000,
+      "category": "Transportasi",
+      "kakeiboType": "Optional"
+    },
+    {
+      "id": "exp-22",
+      "date": "2026-05-11",
+      "item": "Kopi pulang",
+      "amount": 55000,
+      "category": "Jajan",
+      "kakeiboType": "Optional"
+    },
+    {
+      "id": "exp-23",
+      "date": "2026-05-11",
+      "item": "Kirim Rumah",
+      "amount": 300000,
+      "category": "Jajan",
+      "kakeiboType": "Optional"
+    },
+    {
+      "id": "exp-24",
+      "date": "2026-05-12",
+      "item": "cukur",
+      "amount": 25000,
+      "category": "Edukasi",
+      "kakeiboType": "Culture"
+    },
+    {
+      "id": "exp-25",
+      "date": "2026-05-13",
+      "item": "mamah",
+      "amount": 300000,
+      "category": "Lainnya",
+      "kakeiboType": "Optional"
+    },
+    {
+      "id": "exp-26",
+      "date": "2026-05-13",
+      "item": "listrik solo",
+      "amount": 202750,
+      "category": "Tagihan",
+      "kakeiboType": "Extra"
+    },
+    {
+      "id": "exp-27",
+      "date": "2026-05-13",
+      "item": "Biji Kopi Alex de grape",
+      "amount": 268100,
+      "category": "Edukasi",
+      "kakeiboType": "Culture"
+    },
+    {
+      "id": "exp-28",
+      "date": "2026-05-14",
+      "item": "Sunat Zio (Saving)",
+      "amount": 1835000,
+      "category": "Alasan Tertentu",
+      "kakeiboType": "Savings"
+    },
+    {
+      "id": "exp-29",
+      "date": "2026-05-15",
+      "item": "Playmats",
+      "amount": 95841,
+      "category": "Anak",
+      "kakeiboType": "Survival"
+    },
+    {
+      "id": "exp-30",
+      "date": "2026-05-16",
+      "item": "Alfa",
+      "amount": 43000,
+      "category": "Jajan",
+      "kakeiboType": "Optional"
+    },
+    {
+      "id": "exp-31",
+      "date": "2026-05-16",
+      "item": "selimut dan aqua",
+      "amount": 20000,
+      "category": "Jajan",
+      "kakeiboType": "Optional"
+    },
+    {
+      "id": "exp-32",
+      "date": "2026-05-16",
+      "item": "Jatinegara - ranji",
+      "amount": 4000,
+      "category": "Transportasi",
+      "kakeiboType": "Survival"
+    },
+    {
+      "id": "exp-33",
+      "date": "2026-05-16",
+      "item": "ranji kos",
+      "amount": 15000,
+      "category": "Transportasi",
+      "kakeiboType": "Survival"
+    },
+    {
+      "id": "exp-34",
+      "date": "2026-05-16",
+      "item": "Sayang dan Zio",
+      "amount": 1300000,
+      "category": "Anak",
+      "kakeiboType": "Survival"
+    },
+    {
+      "id": "exp-35",
+      "date": "2026-05-17",
+      "item": "Grab 2 ayam geprek",
+      "amount": 45150,
+      "category": "Makan",
+      "kakeiboType": "Optional"
+    },
+    {
+      "id": "exp-36",
+      "date": "2026-05-17",
+      "item": "kos ranji",
+      "amount": 9000,
+      "category": "Transportasi",
+      "kakeiboType": "Survival"
+    },
+    {
+      "id": "exp-37",
+      "date": "2026-05-17",
+      "item": "ranji Kemayoran krl",
+      "amount": 4000,
+      "category": "Transportasi",
+      "kakeiboType": "Survival"
+    },
+    {
+      "id": "exp-38",
+      "date": "2026-05-17",
+      "item": "Kemayoran kantor",
+      "amount": 20000,
+      "category": "Transportasi",
+      "kakeiboType": "Survival"
+    },
+    {
+      "id": "exp-39",
+      "date": "2026-05-18",
+      "item": "GrabFood sapi bakar",
+      "amount": 64000,
+      "category": "Makan",
+      "kakeiboType": "Optional"
+    },
+    {
+      "id": "exp-40",
+      "date": "2026-05-19",
+      "item": "Sarapan Warteg",
+      "amount": 19000,
+      "category": "Makan",
+      "kakeiboType": "Survival"
+    },
+    {
+      "id": "exp-41",
+      "date": "2026-05-21",
+      "item": "Belanja CD",
+      "amount": 274448,
+      "category": "Tagihan",
+      "kakeiboType": "Survival"
+    },
+    {
+      "id": "exp-42",
+      "date": "2026-05-21",
+      "item": "Kos",
+      "amount": 850000,
+      "category": "Tagihan",
+      "kakeiboType": "Survival"
+    },
+    {
+      "id": "exp-43",
+      "date": "2026-05-21",
+      "item": "Maksi Ayam, sayur tempe",
+      "amount": 17000,
+      "category": "Makan",
+      "kakeiboType": "Survival"
+    },
+    {
+      "id": "exp-44",
+      "date": "2026-05-21",
+      "item": "Kemayoran ranji",
+      "amount": 4000,
+      "category": "Transportasi",
+      "kakeiboType": "Survival"
+    },
+    {
+      "id": "exp-45",
+      "date": "2026-05-21",
+      "item": "Ranji kos",
+      "amount": 7000,
+      "category": "Transportasi",
+      "kakeiboType": "Survival"
+    },
+    {
+      "id": "exp-46",
+      "date": "2026-05-21",
+      "item": "Grab Totlah 2 biji",
+      "amount": 71760,
+      "category": "Makan",
+      "kakeiboType": "Optional"
+    }
+  ],
+  "goals": [
+    {
+      "id": "ps-1",
+      "name": "Sunat Zio",
+      "target": 1835000,
+      "current": 1835000,
+      "deadline": "Selesai"
+    },
+    {
+      "id": "ps-2",
+      "name": "Liburan Akhir Tahun",
+      "target": 20000000,
+      "current": 2000000,
+      "deadline": "Desember 2026"
+    }
+  ],
+  "assets": [
+    {
+      "id": "a2",
+      "name": "SBN Bareksa",
+      "amount": 2000000,
+      "category": "SBN",
+      "platform": "Bareksa"
+    },
+    {
+      "id": "a3",
+      "name": "SBN BCA",
+      "amount": 10000000,
+      "category": "SBN",
+      "platform": "BCA"
+    },
+    {
+      "id": "a4",
+      "name": "Saham Mirae Asset",
+      "amount": 508066,
+      "category": "SAHAM",
+      "platform": "Mirae Asset"
+    },
+    {
+      "id": "a5",
+      "name": "Saham Stockbit",
+      "amount": 93208,
+      "category": "SAHAM",
+      "platform": "Stockbit"
+    },
+    {
+      "id": "a6",
+      "name": "Saham IPOT",
+      "amount": 93000,
+      "category": "SAHAM",
+      "platform": "IPOT"
+    },
+    {
+      "id": "a7",
+      "name": "OVO Wallet",
+      "amount": 200,
+      "category": "KAS / Wallet",
+      "platform": "OVO"
+    },
+    {
+      "id": "a8",
+      "name": "BRI Kas",
+      "amount": 50000,
+      "category": "BANK DIGITAL",
+      "platform": "BRI"
+    },
+    {
+      "id": "a9",
+      "name": "myBCA Saldo",
+      "amount": 181374,
+      "category": "BANK DIGITAL",
+      "platform": "myBCA"
+    },
+    {
+      "id": "a10",
+      "name": "Cash Dompet",
+      "amount": 500000,
+      "category": "KAS",
+      "platform": "Dompet"
+    },
+    {
+      "id": "a11",
+      "name": "blu Savings Cash",
+      "amount": 1100000,
+      "category": "BANK DIGITAL",
+      "platform": "blu"
+    },
+    {
+      "id": "a12",
+      "name": "blu Dana Darurat (Emergency)",
+      "amount": 10000000,
+      "category": "Dana Darurat",
+      "platform": "blu"
+    },
+    {
+      "id": "a13",
+      "name": "Bareksa RDPU Liquidity",
+      "amount": 5124661,
+      "category": "RDPU",
+      "platform": "Bareksa"
+    },
+    {
+      "id": "a14",
+      "name": "Valas BCA Dollar Balance",
+      "amount": 845114,
+      "category": "Valas",
+      "platform": "BCA"
+    }
+  ],
+  "planner": {
+    "currentAge": 25,
+    "targetAge": 55,
+    "monthlyIncomeTarget": 10000000,
+    "inflationRate": 5
+  },
+  "config": {
+    "infaqPercentage": 2.5,
+    "mandatoryInfaq": 214000,
+    "plannedSavingsPercentage": 5,
+    "freedomStrategyRules": {
+      "gaji": 20,
+      "tukin": 20,
+      "uangMakan": 20,
+      "extra": 70
+    },
+    "manualExpenseInput": 3253389,
+    "manualSecurityMonths": 6,
+    "securityLayerAutoMonths": 6,
+    "emergencyFundThreshold": 20000000,
+    "emergencyTarget": 20000000,
+    "kakeiboAllocations": {
+      "survival": 85,
+      "optional": 5,
+      "culture": 5,
+      "extra": 5
+    }
+  }
+}

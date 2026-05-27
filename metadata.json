@@ -1,0 +1,8 @@
+{
+  "name": "Personal Finance OS with Mobile Lite Companion",
+  "description": "An advanced personal finance management system with real-time Supabase sync, wealth engine allocation, and a standalone mobile companion app for fast transaction capture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
